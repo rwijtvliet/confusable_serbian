@@ -6,7 +6,7 @@ We can divide the characters up into 3 groups:
 
 * Group 0. Most characters use a symbol in one alphabet that does not exist in the other (e.g. Ф <-> F). It's the presence of these characters that most obviously 'gives away' which alphabet a word is actually written in.
 
-* Group 1. Some characters in these alphabets are or look the same (e.g. A <-> A) or essentially the same (e.g. K <-> К), so changing from latin to cyrillic does not affect how the word is written for these characters. 
+* Group 1. Some characters use symbols are or look the same (e.g. A <-> A) or essentially the same (e.g. K <-> К) in both alphabets. If a word consists entirely of these characters, we cannot tell if it is written in the latin or cyrillic alphabet, but this does not significantly matter as it has the same meaning. 
 
 * Group 2. There is a third group of characters, and that is those that, in one alphabet, use a symbol that looks like the symbol used by a *different* chacaracter in the other alphabet. For example, the latin symbol B (Б in cyrillic) looks like the cyrillic symbol В (V in latin).
 
